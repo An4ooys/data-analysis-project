@@ -30,8 +30,8 @@
 *   **Статистические выбросы:** Анализ методом Z-score выявил несколько статистических выбросов. Вывод: эти тайтлы обладают аномально высоким рейтингом (выше 9.0), что выделяет их даже на фоне остального, уже отобранного, датасета.
 
 ## Ссылки на работу
-*   [Google Colab Notebook](https://colab.research.google.com/drive/1D9ZS5PtyrWUuN2k3bGbl4wDJBgBHovbR?authuser=0#scrollTo=be767beb) — интерактивная среда с полным кодом анализа.
-*   [Yandex DataLens](https://datalens.ru/bwgkf5f25zfyv-animeee) — дашборд с интерактивными визуализациями.
+*   https://colab.research.google.com/drive/1D9ZS5PtyrWUuN2k3bGbl4wDJBgBHovbR?authuser=0#scrollTo=be767beb - GoogleColab.
+*   https://datalens.ru/bwgkf5f25zfyv-animeee - Yandex DataLens.
 
 
 
